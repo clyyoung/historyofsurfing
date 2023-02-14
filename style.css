@@ -1,0 +1,38 @@
+body {
+  background-image: url("https://www.surf-forecast.com/system/images/4295/large/Banzai-Pipelines-and-Backdoor.jpg?1324521720");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1, h2 {
+  text-align: center;
+  color: white;
+  font-family: Trirong;
+}
+p {
+  color: white;
+  font-family: "Roboto Mono";
+}
+img {
+  width: 200px;
+  float: left;
+  margin-right: 50px;
+  margin-left: 50px;
+  position: relative;
+}
+.img1 p {
+  position:absolute;
+  text-align:center;
+}
+.img2 p {
+  position:absolute;
+  text-align:center;
+}
+.img3 p {
+  position: absolute;
+  margin-left: 50px;
+}
+.img4 p {
+  position: absolute;
+  margin-left: 50px;
+}
